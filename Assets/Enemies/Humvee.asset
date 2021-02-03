@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7207ea78efeda5b459711d7b3d774139, type: 3}
+  m_Name: Humvee
+  m_EditorClassIdentifier: 
+  name: Humvee
+  prefab: {fileID: 1556538955749832, guid: f59befb2e3af8bf47820a407a1e6ae27, type: 2}
+  minSpeed: 4.75
+  maxSpeed: 14
+  minValue: 60
+  maxValue: 140
+  healthDelta: 75
+  chance: 4
+  unlockWave: 18

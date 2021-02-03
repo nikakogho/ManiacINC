@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7207ea78efeda5b459711d7b3d774139, type: 3}
+  m_Name: Rhino Runner
+  m_EditorClassIdentifier: 
+  name: Rhino Runner
+  prefab: {fileID: 1156154007453556, guid: 56ae99d2dfdff6045ab6c65be3f418df, type: 2}
+  minSpeed: 6.7
+  maxSpeed: 15.6
+  minValue: 130
+  maxValue: 240
+  healthDelta: 34
+  chance: 8
+  unlockWave: 18

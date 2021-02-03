@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: e11947792e8840e4a8947066262ab021
+timeCreated: 1525608994
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BezierCurve
+    100002: Box0ewfef
+    100004: Box72
+    100006: Circle_002
+    100008: Circle_003_Circle_020
+    100010: Circle_009_Circle_013
+    100012: Cube_000_Cube_000
+    100014: Cylinder303
+    100016: Cylinder304
+    100018: Cylinder305
+    100020: Cylinder80
+    100022: //RootNode
+    100024: Tank_Base
+    100026: Tank_Base_001
+    100028: Tube02_001
+    100030: Up1
+    100032: Up2
+    100034: Up3
+    100036: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C"
+    400000: BezierCurve
+    400002: Box0ewfef
+    400004: Box72
+    400006: Circle_002
+    400008: Circle_003_Circle_020
+    400010: Circle_009_Circle_013
+    400012: Cube_000_Cube_000
+    400014: Cylinder303
+    400016: Cylinder304
+    400018: Cylinder305
+    400020: Cylinder80
+    400022: //RootNode
+    400024: Tank_Base
+    400026: Tank_Base_001
+    400028: Tube02_001
+    400030: Up1
+    400032: Up2
+    400034: Up3
+    400036: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C"
+    2100000: plane
+    2100002: number_back__LEOPMA2T_JPG
+    2100004: BlackGlass_Base__Up3
+    2100006: BlackGlass_Base
+    2100008: Up3
+    2100010: Up3__Up3
+    2100012: Gun__Up3
+    2100014: Down1__Down1
+    2100016: number_001__Down1
+    2100018: BlackGlass_Base__Down1
+    2100020: 001__Down1
+    2100022: red_light__Down1
+    2100024: Tank_3_001__Down2
+    2100026: Rubber_3_001__Down2
+    2100028: vida_3_001__Down2
+    2100030: Down2__Down2
+    2100032: red_light__Down2
+    2100034: orange_light__Down2
+    2100036: BlackGlass_Base__Down2
+    2100038: wire_145028177__Down2
+    2100040: Tank_katok__katok
+    2100042: wheel_red__katok
+    2100044: Rubber_katok__katok
+    2100046: Tank_001__2_png
+    2100048: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B_005__2_png"
+    2100050: vida_3_001
+    2100052: Rubber_3_001
+    2100054: Tank_3_001
+    2100056: Down3__Down3
+    2100058: 17___Default__LEOPMATT_JPG_001
+    2100060: 16___Default
+    2100062: Crot2__Crot2_AO_png
+    2100064: BlackGlass_Base__Up1_png
+    2100066: Up1__Up1_png
+    2100068: Up2__Up2
+    2100070: Up2
+    2100072: 16___Default__6_1
+    2300000: BezierCurve
+    2300002: Box0ewfef
+    2300004: Box72
+    2300006: Circle_002
+    2300008: Circle_003_Circle_020
+    2300010: Circle_009_Circle_013
+    2300012: Cube_000_Cube_000
+    2300014: Cylinder303
+    2300016: Cylinder304
+    2300018: Cylinder305
+    2300020: Cylinder80
+    2300022: Tank_Base
+    2300024: Tank_Base_001
+    2300026: Tube02_001
+    2300028: Up1
+    2300030: Up2
+    2300032: Up3
+    2300034: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C"
+    3300000: BezierCurve
+    3300002: Box0ewfef
+    3300004: Box72
+    3300006: Circle_002
+    3300008: Circle_003_Circle_020
+    3300010: Circle_009_Circle_013
+    3300012: Cube_000_Cube_000
+    3300014: Cylinder303
+    3300016: Cylinder304
+    3300018: Cylinder305
+    3300020: Cylinder80
+    3300022: Tank_Base
+    3300024: Tank_Base_001
+    3300026: Tube02_001
+    3300028: Up1
+    3300030: Up2
+    3300032: Up3
+    3300034: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C"
+    4300000: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C"
+    4300002: Tank_Base_001
+    4300004: Up3
+    4300006: Tank_Base
+    4300008: Circle_003_Circle_020
+    4300010: Circle_009_Circle_013
+    4300012: Circle_002
+    4300014: BezierCurve
+    4300016: Cube_000_Cube_000
+    4300018: Box0ewfef
+    4300020: Box72
+    4300022: Cylinder80
+    4300024: Cylinder303
+    4300026: Cylinder304
+    4300028: Cylinder305
+    4300030: Up1
+    4300032: Up2
+    4300034: Tube02_001
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

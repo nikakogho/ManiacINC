@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7207ea78efeda5b459711d7b3d774139, type: 3}
+  m_Name: Tank_Leopard
+  m_EditorClassIdentifier: 
+  name: Tank Leopard
+  prefab: {fileID: 1436638922749486, guid: 96f833396300b4d4ebf3982d49ef848b, type: 2}
+  minSpeed: 2.5
+  maxSpeed: 8
+  minValue: 90
+  maxValue: 234
+  healthDelta: 120
+  chance: 0.4
+  unlockWave: 26

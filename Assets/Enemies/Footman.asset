@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7207ea78efeda5b459711d7b3d774139, type: 3}
+  m_Name: Footman
+  m_EditorClassIdentifier: 
+  name: Footman
+  prefab: {fileID: 1252963613273398, guid: fa4c2f2c95c4c8a4893643bd6d8c7a2f, type: 2}
+  minSpeed: 3.4
+  maxSpeed: 8.5
+  minValue: 30
+  maxValue: 50
+  healthDelta: 10
+  chance: 40
+  unlockWave: 3

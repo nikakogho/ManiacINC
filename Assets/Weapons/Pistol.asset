@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0497d87ff3785924283edd8e5f322938, type: 3}
+  m_Name: Pistol
+  m_EditorClassIdentifier: 
+  name: Pistol
+  sound: {fileID: 8300000, guid: d14a587a04ca4094cad6e65e64335a21, type: 3}
+  fireRate: 1.5
+  damage: 5
+  isAuto: 0
+  explosionRange: 0
+  bulletEffect: {fileID: 0}
+  ammoPerLoad: 6
+  reloadTime: 3
+  canFire: 0
+  ammo: 0

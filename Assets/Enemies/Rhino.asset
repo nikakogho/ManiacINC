@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7207ea78efeda5b459711d7b3d774139, type: 3}
+  m_Name: Rhino
+  m_EditorClassIdentifier: 
+  name: Rhino
+  prefab: {fileID: 1156154007453556, guid: a5bd296635bb9b844a71f67c79f06fe9, type: 2}
+  minSpeed: 3
+  maxSpeed: 7.5
+  minValue: 100
+  maxValue: 200
+  healthDelta: 55
+  chance: 10
+  unlockWave: 15

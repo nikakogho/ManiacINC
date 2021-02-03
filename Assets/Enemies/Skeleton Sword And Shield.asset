@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7207ea78efeda5b459711d7b3d774139, type: 3}
+  m_Name: Skeleton Sword And Shield
+  m_EditorClassIdentifier: 
+  name: Skeleton Sword And Shield
+  prefab: {fileID: 1234124990631728, guid: e0ac64af81dd80b40821317463c66bc5, type: 2}
+  minSpeed: 4
+  maxSpeed: 10
+  minValue: 18
+  maxValue: 30
+  healthDelta: 5
+  chance: 70
+  unlockWave: 1
